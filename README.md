@@ -1,6 +1,4 @@
-README.md
-
-Resume Validator
+##Resume Validator
 
 This script performs basic validation checks on a resume file to ensure that it includes essential sections and details such as name, email, phone number, education, project details, work experience, and skills.
 
